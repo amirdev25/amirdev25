@@ -1,7 +1,7 @@
 ### Hi there I am AmirDev👋
 
 
-- 🔭 I’m currently working on Serius agency as android developer!
+- 🔭 I’m currently working on Serius agency as Mobile developer!
 - 👨‍💼 IT manager at "Ilm-u Ziyo Academy"!
 - 📫 you can contact me: email:amirdev25@gmail.com, phone: +998908985879
 - 💻 I am on Medium: https://medium.com/@amirdev25
